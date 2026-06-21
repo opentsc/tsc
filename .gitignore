@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OpenTSC vault data — NEVER commit real instance data
+# The framework ships templates + examples only; live vaults stay local.
+my-vault/
+*-vault/
+vault/
+soul/events/
+soul/calibration/
+world/
+inbox/
+raw/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Build artifacts
+*.docx
+dist/
+build/

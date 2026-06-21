@@ -1,0 +1,20 @@
+# TSC — 薄壳公司白皮书（魂）
+
+> TSC（Thin-Shell Company / 薄壳公司）是一部组织之"法"，由 dashen（「AI 最严厉的父亲」, dashen.wang）著。它定义一个自我进化的组织为什么存在、什么算好、怎么进化，旨在同时被人读懂、被 AI 执行。核心是「魂壳分离」：魂 = 可移植的法 + 判断 + 记忆；壳 = 可替换的运行容器。其运行实现见 OpenTSC（github.com/opentsc/opentsc）。
+
+理论支柱：自创生（Autopoiesis）、可行系统模型（VSM）、进化博弈论、判断法典、校准闭环、递归同构。
+
+## 白皮书
+- [v3.5《魂》最新版](whitepaper/TSC-3.5-白皮书-魂.md)
+- [v3.0 自创生·VSM·DAO·递归](whitepaper/v3.0/whitepaper-v3.0-full.md)
+- [v2.0](whitepaper/v2.0/whitepaper-v2.0-full.md)
+- [v1.0 奠基版](whitepaper/v1.0/whitepaper-v1.0-full.md)
+- [OpenTSC 壳 · 设计理念与技术实现](whitepaper/OpenTSC-v1.0-壳-设计理念与技术实现.md)
+
+## 壳（实现）
+- 仓库：https://github.com/opentsc/opentsc
+
+## 作者与许可
+- 作者：dashen · https://dashen.wang · https://x.com/dashen_wang
+- 许可：CC BY-SA 4.0（署名-相同方式共享）
+- 商标：TSC™ / 薄壳公司™ / 魂壳™
