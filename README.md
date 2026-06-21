@@ -14,7 +14,7 @@ by **dashen** (「AI 最严厉的父亲」) · [dashen.wang](https://dashen.wang
 
 ---
 
-## What is this, in plain words?
+## What is TSC?
 
 TSC (the **Thin-Shell Company**) is not software — it's a set of ideas, almost a constitution, for a new kind of organization: **thin on people and tooling, thick on portable judgment.**
 
@@ -47,9 +47,9 @@ You don't need to code to get value from it — it's a way of *thinking* about o
 | v1.0 | The founding case | [v1.0/](whitepaper/v1.0/) |
 | The Shell | OpenTSC design & implementation rationale | [OpenTSC-v1.0-壳…md](whitepaper/OpenTSC-v1.0-壳-设计理念与技术实现.md) |
 
-> The whitepapers themselves are currently written in Chinese; an English edition is on the roadmap. This README is the plain-language front door.
+> The whitepapers are being translated to English — see [`whitepaper/en/`](whitepaper/en/).
 
-## The four ideas it's built on (plain version)
+## The four ideas it's built on
 
 1. **Genesis is fixed.** Why the organization exists is set once and never edited — everything else can change, this can't.
 2. **Judgment comes from evidence, not vibes.** Every claim carries a source and a confidence; predictions carry a due date and get checked against reality.
