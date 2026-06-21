@@ -8,7 +8,7 @@
 
 由 **dashen**（「AI 最严厉的父亲」）著 · [dashen.wang](https://dashen.wang) · [@dashen_wang](https://x.com/dashen_wang)
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/whitepaper-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE) · [壳 · OpenTSC 实现 →](https://github.com/opentsc/opentsc)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/whitepaper-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE) · ![version](https://img.shields.io/badge/version-v3.5-blue.svg) · [更新日志](CHANGELOG.md) · [壳 · OpenTSC 实现 →](https://github.com/opentsc/opentsc)
 
 </div>
 
